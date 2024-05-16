@@ -20,9 +20,6 @@
 
 <div class="container">
 
-# Welcome to My Repository
-
-This is where I store my awesome projects!
 
 </div>
 
@@ -36,7 +33,7 @@ This is where I store my awesome projects!
 <title>My Repository</title>
 <style>
   body {
-    background-color: #f0f0f0;
+    background-color: #000000;
     margin: 0;
     padding: 0;
   }
@@ -48,8 +45,8 @@ This is where I store my awesome projects!
   }
   .top-right {
     position: absolute;
-    top: 20px;
-    right: 20px;
+    top: 40px;
+    right: 40px;
   }
 </style>
 </head>
