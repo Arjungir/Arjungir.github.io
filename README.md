@@ -7,7 +7,7 @@
 <title>My Repository</title>
 <style>
   body {
-    background-color: #f0f0f0; /* Change this to the color you want */
+    background-color: #FF0000; /* Change this to the color you want */
   }
   .container {
     max-width: 800px;
