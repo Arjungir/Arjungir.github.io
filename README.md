@@ -9,7 +9,7 @@
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
-    color: #355E3B;
+    color: #ff0000;
   }
   .container {
     max-width: 800px;
@@ -19,9 +19,10 @@
   }
   .top-right {
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 5px;
+    right: 5px;
     font-size: 50px; /* Increase font size */
+    font-family: Arial, fantasy
   }
 </style>
 </head>
