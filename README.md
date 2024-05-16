@@ -9,7 +9,7 @@
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #355E3B;
   }
   .container {
     max-width: 800px;
