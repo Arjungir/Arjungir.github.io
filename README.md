@@ -1,4 +1,4 @@
-# Arjungir.github.io
+# ARJUN GIREESH
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@
 <title>My Repository</title>
 <style>
   body {
-    background-color: #FF0000; /* Change this to the color you want */
+    background-color: #000000; /* Change this to the color you want */
   }
   .container {
     max-width: 800px;
